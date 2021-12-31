@@ -2,6 +2,7 @@
 We collect and store personal information related to your App profile, which you voluntarily give us either upon sign-up or through continued use of the App:
 - Email address
 - Workout data
+
 We may also collect billing information, such as credit card number, when purchasing a subscription to the App. We do not store this information.
 
 # How We Collect Data
