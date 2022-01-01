@@ -5,12 +5,7 @@ This Privacy Policy describes our policies and procedures on the collection, use
 
 We use your personal data to provide and improve the Application. By using the Application, you agree to the collection and use of information in accordance with this Privacy Policy.
 
-# Interpretation and Definitions
-## Interpretation
-
-The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
-
-## Definitions
+# Definitions
 
 For the purposes of this Privacy Policy:
 
