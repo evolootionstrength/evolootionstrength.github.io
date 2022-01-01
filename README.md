@@ -10,7 +10,7 @@ We use your personal data to provide and improve the Application. By using the A
 For the purposes of this Privacy Policy:
 
 - **"Account"** means a unique account created for You to access our Application or parts of our Application.
-- **"Application"** means the software program provided by Evolootion App LLC downloaded by You on any electronic device, named Evolootion Strength
+- **"Application"** means the software program named Evolootion Strength, provided by Evolootion App LLC and downloaded by You on any electronic device 
 - **"Company"** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Evolootion App LLC
 - **"Country"** refers to the United States of America
 - **"Device"** means any device that can access the Application such as a cell phone or a digital tablet.
